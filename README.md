@@ -2,7 +2,10 @@
 指纹池浏览器一个可以防止女巫的脚本插件！
 序列号申请地址：https://lumao.us.kg/chrome/index.php
 
-## 使用教程
+## 视频教程来了：
+https://youtu.be/3JWybOHxv8Q
+
+## 文字使用教程
 脚本是用python语言写的
 
 脚本不开源，请勿尝试破解。如有害怕数据被盗，请不要使用！
